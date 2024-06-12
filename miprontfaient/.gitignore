@@ -1,0 +1,7 @@
+.vscode
+*.o
+*.a
+push_that.sh
+coding-style-report.log
+map_test.txt
+libmy.a
